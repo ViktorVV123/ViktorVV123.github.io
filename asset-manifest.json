@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.765879e1.css",
-    "main.js": "/static/js/main.e1b7198c.js",
+    "main.css": "/static/css/main.bcc99b98.css",
+    "main.js": "/static/js/main.c10d9f88.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/menu.jpg": "/static/media/menu.2de6a1fb5837dee7acb0.jpg",
     "static/media/OnlineShop.png": "/static/media/OnlineShop.bc548841c087c293c305.png",
@@ -17,12 +17,12 @@
     "static/media/React.png": "/static/media/React.ef20e673b9282f8f30fd.png",
     "index.html": "/index.html",
     "static/media/telegram2.svg": "/static/media/telegram2.b04c54e378c232d5b36eff41edec5952.svg",
-    "main.765879e1.css.map": "/static/css/main.765879e1.css.map",
-    "main.e1b7198c.js.map": "/static/js/main.e1b7198c.js.map",
+    "main.bcc99b98.css.map": "/static/css/main.bcc99b98.css.map",
+    "main.c10d9f88.js.map": "/static/js/main.c10d9f88.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.765879e1.css",
-    "static/js/main.e1b7198c.js"
+    "static/css/main.bcc99b98.css",
+    "static/js/main.c10d9f88.js"
   ]
 }
