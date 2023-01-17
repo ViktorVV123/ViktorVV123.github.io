@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb055b8b.css",
-    "main.js": "/static/js/main.4b0dbae5.js",
+    "main.css": "/static/css/main.ffc452a0.css",
+    "main.js": "/static/js/main.ec0d8b19.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/bisness.png": "/static/media/bisness.f31b7b0232fa804c30cf.png",
     "static/media/menu.jpg": "/static/media/menu.2de6a1fb5837dee7acb0.jpg",
@@ -10,6 +10,7 @@
     "static/media/myphoto.jpg": "/static/media/myphoto.4699e2b020fdf9981477.jpg",
     "static/media/todo.jpg": "/static/media/todo.21ba2e9b7205a07afc8e.jpg",
     "static/media/sait.webp": "/static/media/sait.0ac204f16e990a9d6795.webp",
+    "static/media/search.jpg": "/static/media/search.078140063fc0c410d278.jpg",
     "static/media/TYPESCRPT.png": "/static/media/TYPESCRPT.27d82c7bbf9b3efe71cf.png",
     "static/media/test.jpg": "/static/media/test.c08ed41762363b79086c.jpg",
     "static/media/Redux.jpg": "/static/media/Redux.01c19de9cd2acbbbd5ab.jpg",
@@ -18,12 +19,12 @@
     "static/media/React.png": "/static/media/React.ef20e673b9282f8f30fd.png",
     "index.html": "/index.html",
     "static/media/telegram2.svg": "/static/media/telegram2.b04c54e378c232d5b36eff41edec5952.svg",
-    "main.eb055b8b.css.map": "/static/css/main.eb055b8b.css.map",
-    "main.4b0dbae5.js.map": "/static/js/main.4b0dbae5.js.map",
+    "main.ffc452a0.css.map": "/static/css/main.ffc452a0.css.map",
+    "main.ec0d8b19.js.map": "/static/js/main.ec0d8b19.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb055b8b.css",
-    "static/js/main.4b0dbae5.js"
+    "static/css/main.ffc452a0.css",
+    "static/js/main.ec0d8b19.js"
   ]
 }
